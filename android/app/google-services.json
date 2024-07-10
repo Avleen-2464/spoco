@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481984576628",
+    "project_id": "spoco-a65b5",
+    "storage_bucket": "spoco-a65b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481984576628:android:81976802b377abc889a521",
+        "android_client_info": {
+          "package_name": "com.avleen.spoco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBRoLj0vNkJRs_FFg1fjv4TWT8M__UILQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
